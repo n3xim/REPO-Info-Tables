@@ -2,7 +2,7 @@
 
 | Name          |           Image            | Tier | HP  | DMG                      | DTC             | STR | STR(STN) |  ORB   |
 | :------------ | :------------------------: | :--: | :-: | :----------------------- | :-------------- | :-: | :------: | :----: |
-| Apex Predator | <img src="PNGs/Apex%20Predator.png" width="50"> |  1   | 150 | 10                       | LoS-  PROX-      | IMP |    0     | Small  |
+| Apex Predator | <img src="PNGs/Apex%20Predator.png" width="50"> |  1   | 150 | 10                       | LoS-PROX-      | IMP |    0     | Small  |
 | Animal        |    <img src="PNGs/Animal.png" width="50">    |  2   | 150 | 2                        | LoS-PROX-       |  4  |    3     | Medium |
 | Banger        |    <img src="PNGs/Banger.png" width="50">     |  2   | 50  | Varies                   | LoS-PROX-       |  0  |    0     |  None  |
 | Bella         |     <img src="PNGs/Bella.png" width="50">     |  1   | 200 | 5                        | TCH-BLCK-       |  9  |    0     | Small  |
