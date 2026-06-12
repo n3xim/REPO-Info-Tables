@@ -2,10 +2,10 @@
 
 |            Name            |                Box                 | Base Cost |    Amount    |                                             Description                                             |
 | :------------------------: | :--------------------------------: | :-------: | :----------: | :-------------------------------------------------------------------------------------------------: |
-|      Strength Upgrade      |   ![[Strength Upgrade.png\|35]]    |  $5K-$8K  |      2       |                                  Increases grabber strength by 25%                                  |
-|       Range Upgrade        |     ![[Range Upgrade.png\|35]]     |  $5K-$8K  |      3       |                                Increases range of the grabber by 30%                                |
-|      Stamina Upgrade       |    ![[Stamina Upgrade.png\|35]]    |    $2K    |      4       |                                   Increases maximum stamina by 10                                   |
-|    Sprint Speed Upgrade    | ![[Sprint Speed Upgrade.png\|35]]  |  $5K-$8K  |      3       |                                  Increases sprinting speed by 20%                                   |
+|      Strength Upgrade      |   <img src="PNGs/Strength%20Upgrade.png" width="35">    |  $5K-$8K  |      2       |                                  Increases grabber strength by 25%                                  |
+|       Range Upgrade        |     <img src="PNGs/Range%20Upgrade.png" width="35">    |  $5K-$8K  |      3       |                                Increases range of the grabber by 30%                                |
+|      Stamina Upgrade       |    <img src="PNGs/Stamina%20Upgrade.png" width="35">   |    $2K    |      4       |                                   Increases maximum stamina by 10                                   |
+|    Sprint Speed Upgrade    | <img src="PNGs/Sprint%20Speed%20Upgrade.png" width="35">  |  $5K-$8K  |      3       |                                  Increases sprinting speed by 20%                                   |
 |    Crouch Rest Upgrade     |  ![[Crouch Rest Upgrade.png\|35]]  |  $5K-$8K  |      3       | Increases stamina regeneration speed while crouching by 1 per second (0.5 per second while walking) |
 |       Health Upgrade       |    ![[Health Upgrade.png\|35]]     |  $4K-$5K  |      2       |                                   Increases maximum health by 20                                    |
 |  Map Player Count Upgrade  | ![[Player Count Upgrade.png\|35]]  | $8K-$12K  | 1-(Per Game) |                            Shows the amount of alive players on the map                             |
